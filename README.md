@@ -6,8 +6,9 @@
 Here are some ideas to get you started:-->
 My name is Harrison. I currently live in São José dos Campos, Brazil!
 
-- 👨‍💻 I'm currently working with Django Framework
-- 🎓 Studying Computer Science at ICT Unifesp
+- 👨‍💻 I'm currently working as a tech intern, focusing on software development and data engineering skills.
+- 🎓 Studying Computer Science at ICT Unifesp.
+- 💪 Check out my pinned repos! I'm interested in working with machine learning, web development or data engineering (or all of them 😅).
 
 ## Tools and Languages
 
